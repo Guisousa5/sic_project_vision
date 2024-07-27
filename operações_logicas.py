@@ -1,0 +1,5 @@
+print('Resultado de 10 > 5: ', 10 > 5)
+print('Resultado de 5 < 1:  ', 5 < 1)
+print('Resultado de 5 == 5:' , 5 == 5)
+print('Resultado de 5 != 5:', 5 != 5)
+print("Resultado de 'a' > 'b': ", 'b'> 'a')
